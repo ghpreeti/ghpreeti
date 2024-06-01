@@ -70,16 +70,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghpreeti" alt="GitHub Streak" /></p>
 
-## Achievements
 
-- Completed a challenging AI ChatBot project that showcases my ability to tackle complex problems and deliver innovative solutions.
-- Recognized as a top contributor on Stack Overflow, demonstrating my commitment to helping others and sharing knowledge.
-- Achieved a high ranking on HackerRank and HackerEarth, proving my proficiency in problem-solving and coding skills.
-
-## Future Goals
-
-- Contribute to open-source projects and collaborate with talented developers to create impactful applications.
-- Mentor aspiring developers and share my knowledge and experiences to help them grow in their careers.
-- Continuously learn and adapt to new technologies, ensuring that I stay at the forefront of the ever-evolving web development landscape.
 
 Feel free to explore my repositories and projects to get a glimpse of my skills and interests. I'm always eager to connect with fellow developers and explore new opportunities for growth and collaboration.
