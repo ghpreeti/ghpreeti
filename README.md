@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [AI ChatBot].
 
-- 🌱 I’m currently learning **NodeJs|JavaScript|JAVA|Angular**
+- 🌱 I’m currently learning **NodeJs|JavaScript|JAVA|React**
 
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **preetisinghitt@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
