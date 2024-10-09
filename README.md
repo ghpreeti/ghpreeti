@@ -1,75 +1,60 @@
+# 👩‍💻 **Preeti Singh**
 
-<h1 align="center">Hi there! I'm Preeti Singh 👋</h1>
-<h3 align="center">A Passionate FullStack Developer from India</h3>
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/ghpreeti/) [![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/LCpreet/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/preetisiyxf8/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preeti-singh-b3771a250/)
 
-<p align="center">
-  <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-</p>
+📍 **Location:** Banda, Uttar Pradesh  
+📞 **Contact:** +91 7007651127  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghpreeti&label=Profile%20views&color=0e75b6&style=flat" alt="ghpreeti" />
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/ghpreeti?tab=followers">
-    <img src="https://img.shields.io/github/followers/ghpreeti?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-</p>
+### ✨ **About Me**
+A passionate third-year B.Tech Computer Science student at Lovely Professional University, specializing in developing innovative solutions that enhance digital experiences. With a solid foundation in data structures, object-oriented programming, and Agile methodology, I am committed to continuous learning and applying new technologies to solve real-world problems effectively.
 
-## About Me
+---
 
-🔭 I'm currently working on an AI ChatBot project.
+### 🚀 **Projects**
 
-🌱 I'm continuously expanding my knowledge by learning cutting-edge technologies like NodeJs, JavaScript, JAVA, and React.
+#### 🗂 **KeepIt - Firebase Contact App** | *ReactJS, Firebase, Tailwind CSS* (July 2024)
+- 📲 **Purpose:** Created an efficient contact management app that supports offline data access and sync capabilities for a smooth user experience.
+- 🔐 **Technology:** Integrated Firebase for scalable authentication and real-time updates, paired with a dynamic UI built using Tailwind CSS.
+- 🎨 **Impact:** Enabled users to seamlessly manage contacts through an intuitive and responsive interface powered by React.
 
-💬 I'm always eager to discuss web development and share my insights with fellow developers.
+#### 🚫 **AdBlocker - Browser Extension** | *JavaScript* (June 2024)
+- 🌐 **Purpose:** Developed a lightweight and effective ad-blocking extension specifically targeting sponsored content on LinkedIn.
+- 💻 **Compatibility:** Supports major Chromium-based browsers, including Chrome, Brave, Opera, and Edge.
+- 🔍 **Learning Outcome:** Gained valuable insights into developing efficient blocking algorithms using JavaScript.
 
-📫 Feel free to reach out to me at preetisinghitt@gmail.com for any inquiries or collaboration opportunities.
+#### 📚 **UBlog - Blogging Platform** | *Node.js, Express.js, MongoDB* (May 2024)
+- ✍️ **Purpose:** Created a community-driven blogging site where users can share insights, answer questions, and learn from peers.
+- 🔄 **Features:** Implemented full CRUD operations for engaging user interactions and authentication for secure access.
+- 🛠 **Tech Stack:** Leveraged Node.js and Express for server-side functionality, ensuring smooth and reliable data handling.
 
-## Connect with Me
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/preeti-singh-b3771a250/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/20872949/preeti-singh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/preetisinghitt" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@preetisinghitt" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
-  </a>
-</p>
+### 🛠️ **Technical Skills**
 
-## Languages and Tools
+- **Programming Languages:** C/C++, Java
+- **Frontend Frameworks/Libraries:** ReactJS, Tailwind CSS
+- **Backend Technologies:** Node.js, Express, MongoDB
+- **Tools:** Git, GitHub, VS Code
+- **Platforms:** Windows
+- **Power Skills:** Adaptive Learner, Leadership Capability, Effective Communication
+- **Languages:** English, Hindi, Japanese (Beginner)
 
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+---
 
-## GitHub Stats
+### 🏆 **Achievements & Certifications**
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghpreeti&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+- **📘 Completed Interview Preparation** | *GeeksforGeeks*  
+  *Mastered core Data Structures, Java programming, and low-level design concepts.*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghpreeti&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+- **🌐 Web Development Bootcamp** | *Devtown*  
+  *Gained essential skills in HTML, CSS, and frameworks, fostering a collaborative learning experience.*  
+  *Certified by Google, Amazon, Microsoft, and Devtown.*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghpreeti" alt="GitHub Streak" /></p>
+- **💬 Prompt Engineering for ChatGPT** | *Coursera, in collaboration with Vanderbilt University*  
+  *Learned advanced prompt patterns and techniques for utilizing large language models effectively.*
 
+---
 
-
-Feel free to explore my repositories and projects to get a glimpse of my skills and interests. I'm always eager to connect with fellow developers and explore new opportunities for growth and collaboration.
+🌟 **“Embrace innovation and continuous learning, and you’ll be ready for any challenge in the tech world!”**
