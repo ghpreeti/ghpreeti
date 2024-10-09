@@ -57,4 +57,11 @@ A passionate third-year B.Tech Computer Science student at Lovely Professional U
 
 ---
 
+### 📈 **GitHub Performance**
+
+- 🔥 **GitHub Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghpreeti&theme=dark)
+- 🏆 **GitHub Score:** ![GitHub Score](https://img.shields.io/github/followers/ghpreeti?label=GitHub%20Followers&style=social)
+
+---
+
 🌟 **“Embrace innovation and continuous learning, and you’ll be ready for any challenge in the tech world!”**
