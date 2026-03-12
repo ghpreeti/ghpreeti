@@ -8,7 +8,7 @@
 ---
 
 ### ✨ **About Me**
-A passionate third-year B.Tech Computer Science student at Lovely Professional University, specializing in developing innovative solutions that enhance digital experiences. With a solid foundation in data structures, object-oriented programming, and Agile methodology, I am committed to continuous learning and applying new technologies to solve real-world problems effectively.
+A passionate Fourth-year B.Tech Computer Science student at Lovely Professional University, specializing in developing innovative solutions that enhance digital experiences. With a solid foundation in data structures, object-oriented programming, and Agile methodology, I am committed to continuous learning and applying new technologies to solve real-world problems effectively.
 
 ---
 
