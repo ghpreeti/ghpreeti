@@ -1,67 +1,169 @@
-# 👩‍💻 **Preeti Singh**
+# 👩‍💻 Preeti Singh
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/ghpreeti/) [![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/LCpreet/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/preetisiyxf8/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preeti-singh-b3771a250/)
+Backend-Focused Software Engineer | ASP.NET Core | Microservices | API Testing | React | AI Learning Enthusiast
 
-📍 **Location:** Banda, Uttar Pradesh  
-📞 **Contact:** +91 7007651127  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://github.com/ghpreeti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/preeti-singh-b3771a250/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/LCpreet/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/preetisiyxf8/)
 
----
-
-### ✨ **About Me**
-A passionate Fourth-year B.Tech Computer Science student at Lovely Professional University, specializing in developing innovative solutions that enhance digital experiences. With a solid foundation in data structures, object-oriented programming, and Agile methodology, I am committed to continuous learning and applying new technologies to solve real-world problems effectively.
-
----
-
-### 🚀 **Projects**
-
-#### 🗂 **KeepIt - Firebase Contact App** | *ReactJS, Firebase, Tailwind CSS* (July 2024)
-- 📲 **Purpose:** Created an efficient contact management app that supports offline data access and sync capabilities for a smooth user experience.
-- 🔐 **Technology:** Integrated Firebase for scalable authentication and real-time updates, paired with a dynamic UI built using Tailwind CSS.
-- 🎨 **Impact:** Enabled users to seamlessly manage contacts through an intuitive and responsive interface powered by React.
-
-#### 🚫 **AdBlocker - Browser Extension** | *JavaScript* (June 2024)
-- 🌐 **Purpose:** Developed a lightweight and effective ad-blocking extension specifically targeting sponsored content on LinkedIn.
-- 💻 **Compatibility:** Supports major Chromium-based browsers, including Chrome, Brave, Opera, and Edge.
-- 🔍 **Learning Outcome:** Gained valuable insights into developing efficient blocking algorithms using JavaScript.
-
-#### 📚 **UBlog - Blogging Platform** | *Node.js, Express.js, MongoDB* (May 2024)
-- ✍️ **Purpose:** Created a community-driven blogging site where users can share insights, answer questions, and learn from peers.
-- 🔄 **Features:** Implemented full CRUD operations for engaging user interactions and authentication for secure access.
-- 🛠 **Tech Stack:** Leveraged Node.js and Express for server-side functionality, ensuring smooth and reliable data handling.
+📍 Banda, Uttar Pradesh, India  
+📧 preetisinghitt@gmail.com  
 
 ---
 
-### 🛠️ **Technical Skills**
+# 🚀 About Me
 
-- **Programming Languages:** C/C++, Java
-- **Frontend Frameworks/Libraries:** ReactJS, Tailwind CSS
-- **Backend Technologies:** Node.js, Express, MongoDB
-- **Tools:** Git, GitHub, VS Code
-- **Platforms:** Windows
-- **Power Skills:** Adaptive Learner, Leadership Capability, Effective Communication
-- **Languages:** English, Hindi, Japanese (Beginner)
+I am a Computer Science undergraduate at Lovely Professional University with strong interest in backend engineering, scalable system design, API development, and modern software architecture.
 
----
+My experience includes building full-stack and microservices-based applications using ASP.NET Core, React, Node.js, RabbitMQ, Redis, and Docker. I also have hands-on exposure to API testing, debugging, CI/CD concepts, and distributed system workflows.
 
-### 🏆 **Achievements & Certifications**
+Currently exploring:
+- Generative AI integrations
+- AI-powered applications
+- Cloud-native development
+- Automation workflows
 
-- **📘 Completed Interview Preparation** | *GeeksforGeeks*  
-  *Mastered core Data Structures, Java programming, and low-level design concepts.*
-
-- **🌐 Web Development Bootcamp** | *Devtown*  
-  *Gained essential skills in HTML, CSS, and frameworks, fostering a collaborative learning experience.*  
-  *Certified by Google, Amazon, Microsoft, and Devtown.*
-
-- **💬 Prompt Engineering for ChatGPT** | *Coursera, in collaboration with Vanderbilt University*  
-  *Learned advanced prompt patterns and techniques for utilizing large language models effectively.*
+I enjoy solving real-world engineering problems and continuously improving system reliability, scalability, and developer experience.
 
 ---
 
-### 📈 **GitHub Performance**
+# 🛠 Tech Stack
 
-- 🔥 **GitHub Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghpreeti&theme=dark)
-- 🏆 **GitHub Score:** ![GitHub Score](https://img.shields.io/github/followers/ghpreeti?label=GitHub%20Followers&style=social)
+## 💻 Languages
+- C#
+- JavaScript
+- Python
+- Java
+
+## ⚙ Backend
+- ASP.NET Core
+- Node.js
+- Express.js
+- REST APIs
+- Entity Framework Core
+
+## 🎨 Frontend
+- React.js
+- TypeScript
+- Tailwind CSS
+- HTML
+- CSS
+
+## 🗄 Databases & Messaging
+- SQL Server
+- MongoDB
+- Redis
+- RabbitMQ
+
+## 🧩 Architecture & Concepts
+- Microservices
+- Clean Architecture
+- CQRS
+- MediatR
+- API Gateway
+- Authentication & Authorization
+- Caching
+- Asynchronous Communication
+
+## 🧪 Testing & Tools
+- Postman
+- API Testing
+- Manual Testing
+- Debugging
+- Log Analysis
+- Serilog
+
+## 🚀 DevOps & Tools
+- Docker
+- Git
+- GitHub
+- Jenkins (Basics)
+- CI/CD (Basics)
 
 ---
 
-🌟 **“Embrace innovation and continuous learning, and you’ll be ready for any challenge in the tech world!”**
+# 📌 Featured Projects
+
+## 🚚 LogiCore – Cargo Management System (Microservices)
+
+### Tech Stack
+ASP.NET Core • CQRS • MediatR • RabbitMQ • Redis • SQL Server • Docker • Ocelot
+
+### Highlights
+- Designed a scalable microservices-based cargo management system using Clean Architecture.
+- Implemented asynchronous communication using RabbitMQ.
+- Added Redis caching for performance optimization.
+- Configured Ocelot API Gateway for centralized routing.
+- Applied structured logging using Serilog.
+- Tested and validated APIs using Postman.
+- Explored Docker containerization and CI/CD workflows.
+
+🔗 GitHub Repository: [Add Repo Link]
+
+---
+
+## 🎥 Full-Stack Interview Platform
+
+### Tech Stack
+React • TypeScript • Node.js • Express.js • MongoDB
+
+### Highlights
+- Built a real-time interview platform with authentication and room management workflows.
+- Designed and validated backend APIs using Postman.
+- Implemented logging and error handling for debugging and stability.
+- Tested edge cases for multi-user interaction workflows.
+
+🔗 GitHub Repository: [Add Repo Link]
+
+---
+
+# 💼 Experience
+
+## 🧠 Robotics Project Guide — Moonpreneur
+📅 Feb 2025 – Jun 2025
+
+- Designed and tested Python-based robotics projects.
+- Debugged student implementations and improved project reliability.
+- Validated hardware-software interactions using TinkerCAD and MicroPython simulators.
+- Documented issues and collaborated on improving curriculum quality.
+
+---
+
+## 🌐 Web Development Intern — UpToSkills
+📅 Oct 2024 – Jan 2025
+
+- Developed and tested full-stack features using ReactJS and Node.js.
+- Validated REST APIs and optimized backend queries.
+- Performed manual testing for authentication and admin workflows.
+- Debugged application issues using logs and API testing tools.
+
+---
+
+# 📚 Currently Learning
+
+- Generative AI & LLM Integrations
+- Azure AI Fundamentals (AI-900)
+- RAG Applications
+- Cloud & Deployment Workflows
+- Advanced Backend Engineering
+
+---
+
+# 🏆 Achievements & Certifications
+
+- Prompt Engineering for ChatGPT — Coursera
+- Interview Preparation — GeeksforGeeks
+- Web Development Bootcamp — Devtown
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghpreeti&theme=dark)
+
+---
+
+# 🌟 Philosophy
+
+> “Strong systems are built through continuous learning, practical problem-solving, and consistent engineering discipline.”
